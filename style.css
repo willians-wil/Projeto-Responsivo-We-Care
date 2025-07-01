@@ -1,0 +1,137 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+.cabecalho{
+    margin: 44px 0 144px 76px;
+}
+.link-header{
+    font-size: 24px;
+    font-weight: 600px;
+    line-height: 100%;
+    color: #989D9C;
+    margin-right: 23px;
+    cursor: pointer;
+}
+.link-header:hover{
+    background-color: #665AE1;
+}
+.botao{
+    background-color: #665AE1;
+    border-radius: 30px;
+    border: none;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 100%;
+    color: #fff;
+    width: 130px;
+    height: 41px;
+    cursor: pointer;
+}
+.wrapper{
+    height: 900px;
+   
+}
+.img-logo{
+    display: inline-block;
+    margin-left: 125px;
+    position: relative;
+    top: 70px;
+}
+section{
+    width: 513px;
+    display: inline-block;
+    margin-left: 86px;
+}
+h1{
+    font-weight: 900;
+    font-size: 100px;
+    line-height: 100%;
+    color: #515151;
+    text-transform: uppercase;
+}
+h2{
+    font-size: 58px;
+    font-weight: 400;
+    line-height: 55px;
+    color: #515151;
+    text-transform: capitalize;
+}
+p{
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 100%;
+    color: #848484;
+    margin-top: 32px;
+}
+.botao-one{
+    background-color: #ADFF00;
+    border: none;
+    width: 239px;
+    height: 64px;
+    border-radius: 20.5px;
+    color: #000;
+    font-size: 28px;
+    font-weight: 500;
+    margin-top: 65px;
+    filter: drop-shadow(2px 4px 4px #000);
+    cursor: pointer;
+
+}
+@media screen and (max-width: 780px ){
+    .wrapper{
+        width: 100vw;
+        height: 100vh;
+    }
+    .cabecalho{
+        margin: 0px;
+        display: none;
+    }
+    section{
+        width: 238px;
+        display: block;
+        margin: auto;
+    }
+    .img-logo{
+        display: block;
+        margin: 150px auto 0;
+        position: static;
+        width: 354px;
+        height: 317px;
+    }
+    h1{
+        font-weight: 900;
+        font-size: 50px;
+        line-height: 100%;
+        color: #515151;
+        text-transform: uppercase;
+        text-align: center;
+        margin-top: 25px;
+    }
+    h2{
+        font-size: 30px;
+        font-weight: 500;
+        line-height: 55px;
+        color: #515151;
+        text-transform: capitalize;
+        text-align: center;
+    }
+    p{
+        position: absolute;
+        display: none;
+    }
+    .botao-one{
+        background-color: #ADFF00;
+        border: none;
+        width: 239px;
+        height: 64px;
+        border-radius: 20.5px;
+        color: #000;
+        font-size: 28px;
+        font-weight: 500;
+        filter: drop-shadow(2px 4px 4px #000);
+        margin: 11px auto 0;
+    }
+}
