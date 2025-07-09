@@ -7,7 +7,7 @@
 <img src="https://github.com/willians-wil/Projeto-responsivo-we-care/blob/main/Assets/image%20logo%20PC.png?raw=true alt="image-logo" align="right" />
 <p><b><i>Tecnologias utilizadas</i></b></p>
 <br>
-•<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"  />
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"  />
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="Css-logo" />
 
 
