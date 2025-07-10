@@ -9,6 +9,7 @@ A ideia desse projeto é demonstrar minhas habilidades iniciais em HTML e CSS, a
 </i>
 <br>
 <br>
+ <h4>Á pagina criada também esta adaptada para visualização em dispositivos mobile, com a finalidade de tornar o projeto responsivo</h4>
 <br>
 <br>
 
@@ -17,11 +18,11 @@ A ideia desse projeto é demonstrar minhas habilidades iniciais em HTML e CSS, a
 <div display= "inline">
 •<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"  />
   <br>
+ <br>
 •<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="Css-logo" />
 </div>
 <br>
 <br>
 
-<img src="https://github.com/willians-wil/Projeto-responsivo-we-care/blob/main/Assets/we%20care%20image%20mobile.png?raw=true" alt="mobile-logo" class="filho" />
-<img src="https://github.com/willians-wil/Projeto-responsivo-we-care/blob/main/Assets/image%20logo%20PC.png?raw=true" alt="image-logo" />
+<img src="https://github.com/willians-wil/Projeto-Responsivo-We-Care/blob/main/Assets/logo%20pc%20mobile.png?raw=true" alt="image-logo" />
 
