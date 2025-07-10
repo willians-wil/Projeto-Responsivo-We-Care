@@ -11,13 +11,17 @@ A ideia desse projeto é demonstrar minhas habilidades iniciais em HTML e CSS, a
 <br>
 <br>
 <br>
-<img src="https://github.com/willians-wil/Projeto-responsivo-we-care/blob/main/Assets/image%20logo%20PC.png?raw=true alt="image-logo" align="right" />
+
+ 
 <p><b><i>Tecnologias utilizadas</i></b></p>
-<br>
 <div display= "inline">
 •<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"  />
   <br>
 •<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="Css-logo" />
 </div>
+<br>
+<br>
 
+<img src="https://github.com/willians-wil/Projeto-responsivo-we-care/blob/main/Assets/we%20care%20image%20mobile.png?raw=true" alt="mobile-logo" class="filho" />
+<img src="https://github.com/willians-wil/Projeto-responsivo-we-care/blob/main/Assets/image%20logo%20PC.png?raw=true" alt="image-logo" />
 
