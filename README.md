@@ -1,25 +1,26 @@
 <h1>We Care - Responsive design</h1>
 <br>
+<h2><i>Esse foi um projeto responsivo que aprendi no curso de formação completa <a href="http://rodolfomori.com.br/devclub">Devclub</a><i/></h2>
 <br>
-<h2><i>Esse foi um projeto responsivo que aprendi no curso de formação completa <a href="http://rodolfomori.com.br/devclub">Devclub</a> que tem como objetivo transformar pessoas em profissionais de tecnologia requisitados pelo mercado<i/></h2>
 <br>
-<br>
-<i>Este foi meu primeiro projeto prático com <strong>HTML5 e CSS3:</strong> uma landing page estática. A página contém uma estrutura completa com <b>cabeçalho, seções, menu e Div</b>. Utilizei <b>Position´s</b> para organizar os elementos e estilizei a tipografia e os botões com base em boas práticas de <b>UI</b>. O foco foi entender a semântica das tags e o posicionamento de conteúdo.
-A ideia desse projeto é demonstrar minhas habilidades iniciais em HTML e CSS, a proposta foi desenvolver uma página web simples, bem estruturada e visualmente agradável, que refletisse meu comprometimento com a organização do código e o design responsivo. Além de ser uma forma prática de aplicar os conhecimentos adquiridos, servindo como um cartão de visitas digital do meu desenvolvimento como futuro profissional da área.
+<i>Este é meu primeiro projeto desenvolvido com <strong>HTML e CSS</strong>. Criei com o objetivo de praticar a estruturação de páginas web e aplicar estilos visuais. A ideia principal foi criar uma landing page simples, focando em boas práticas e organização do código.
+Durante o processo, aprendi como funcionam as tags HTML, como aplicar estilos com CSS e como organizar os elementos de forma responsiva com <strong>@media queries</strong>.
 </i>
 <br>
 <br>
- <h4>Á pagina criada também esta adaptada para visualização em dispositivos mobile, com a finalidade de tornar o projeto responsivo</h4>
 <br>
-<br>
-
- 
+  
 <p><b><i>Tecnologias utilizadas</i></b></p>
 <div display= "inline">
 •<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"  />
   <br>
- <br>
 •<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="Css-logo" />
+ <br>
+•<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git-logo" /> 
+ <br>
+•<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github-logo" />
+ <br>
+•<img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" alt="Gitpage-logo" />
 </div>
 <br>
 <br>
