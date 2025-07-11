@@ -25,5 +25,8 @@ Durante o processo, aprendi como funcionam as tags HTML, como aplicar estilos co
 <br>
 <br>
 
+<img src="https://github.com/willians-wil/Projeto-Responsivo-We-Care/blob/main/Assets/We%20care%20image%20PC.png?raw=true" alt="image-mobile-logo" />
+
 <img src="https://github.com/willians-wil/Projeto-Responsivo-We-Care/blob/main/Assets/we%20care%20image%20mobile.png?raw=true" alt="image-logo" />
+
 
